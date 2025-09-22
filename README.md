@@ -57,8 +57,11 @@ The goal is to demonstrate how **market news headlines** can be linked to **clea
    - **Space 1:** Connect to the `ccp_exposures` Delta table.  
    - **Space 2:** Connect to the `enriched_news` Delta table.  
 
-   > 📸 *[Placeholder for screenshot of CCP exposures table in Genie]*  
-   > 📸 *[Placeholder for screenshot of enriched news table in Genie]*  
+## CCP Exposures Table Preview
+![CCP exposures table screenshot](./img/genie1.png)
+
+## Enriched News Table Preview
+![Enriched news table screenshot](./img/genie2.png)
 
 5. **Build Multi-Agent Architecture**  
    - Use the two Genie spaces together:  
